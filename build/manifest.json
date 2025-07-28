@@ -1,0 +1,25 @@
+{
+  "short_name": "Hexobee",
+  "name": "Hexobee - We create websites in Israel and abroad",
+  "icons": [
+    {
+      "src": "Hexobee_logo_ico_green.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Hexobee_logo_last_png.webp",
+      "type": "image/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Hexobee_logo_last_png.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
