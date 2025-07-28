@@ -1,0 +1,329 @@
+{
+  "home": {
+    "slogan": "We create websites in Israel and abroad",
+    "order_button": "order now!"
+  },
+  "review_title": "Review",
+  "header": {
+    "nav": {
+      "home": "home",
+      "portfolio": "portfolio",
+      "about_us": "about us",
+      "contact": "contact",
+      "survey": "Get a website!",
+      "lang": "lang"
+    },
+    "languages": [
+      {
+        "code": "he",
+        "nativeName": "Hebrew"
+      },
+      {
+        "code": "ru",
+        "nativeName": "Russian"
+      },
+      {
+        "code": "en",
+        "nativeName": "English"
+      }
+    ]
+  },
+  "fact_statistics" :  {
+    "cost": "Cost",
+    "price": " ILS",
+    "fullService": "Turnkey",
+    "delivery": "Within",
+    "days": " Days",
+    "firstDraft": "First draft",
+    "timeline": "Within",
+    "months": " Months",
+    "freeSupport": "Free maintenance",
+    "mobileAdaptation": "Mobile adaptation"
+},
+  "about": {
+    "title": "ABOUT US",
+    "text_1": "We are a team of professionals with extensive experience.",
+    "text_2": "Our work is based on partnership and the value of each participant in the process.",
+    "text_3": "We are building an open and trusting system of cooperation, where every team member is important and every client is a partner. We believe that digital solutions should be accessible, effective and reflect the uniqueness of each business.",
+    "text_4": "Our approach is not a stream development, but an individual path to success for each client. We believe that each project is unique, and our task is to make it simple, convenient and effective, making the Internet space more convenient."
+  },
+  "program": {
+    "title": "Stages of working with us",
+    "period_1": "1 stage",
+    "text_1": "We contact you in a way convenient for you (by phone, by mail or in person). We get acquainted, discuss the conditions, tasks and your vision. Then we choose a suitable service package for you, outline the scope of work, discuss the cost.",
+    "period_2": "2 stage",
+    "text_2": " We sign a contract. You pay an advance payment of 30% of the cost and we start working on your project. You will be able to see the first results in 5 days. We prefer to always be in close contact with the customer so that you have the opportunity to influence the result and make decisions at all stages of production.",
+    "period_3": "3 stage",
+    "text_3": "We sign the work acceptance certificate and help publish (if necessary) the website on the Internet on the hosting service you have chosen."
+  },
+  "portfolio": {
+    "title": "OUR CASES",
+    "demo": "Demo",
+    "want": "I want the same",
+    "successStories": [
+      {
+        "storyTitle": "Photographer Inna Gusinskaya's Website",
+        "storyText": "Developed a personal portfolio website for a photographer in Israel with a focus on visual content.",
+        "review": "Hexobee created a clean, stylish, and user-friendly website for me — and it really works! I started getting more inquiries through the form, and the site is super easy to navigate. Thank you for the fast and attentive work — everything was clear and professional!"
+      },
+      {
+        "storyTitle": "Website for the cleaning company 'Chistodey'",
+        "storyText": "Created a responsive website for a cleaning company in St. Petersburg optimized for mobile devices.",
+        "review": "Thank you, Hexobee, for a beautiful and professional website! The team truly captured my style and made a site that reflects me perfectly. Everything was fast, clear, and on point. A pleasure to work with and to show to clients!"
+      },
+      {
+        "storyTitle": "Landing Page for a Tennis Club",
+        "storyText": "Developed a landing page for a tennis club with minimalist design, sporty energy focus, and a subscription feature.",
+        "review": "This is a landing page mockup"
+      },
+      {
+        "storyTitle": "Landing page for a construction company",
+        "storyText": "Developed a landing page with a modern, clean design featuring straight lines and bold typography.",
+        "review": "This is a landing page mockup"
+      },
+      {
+        "storyTitle": "Burger restaurant",
+        "storyText": "Developed a modern website focused on building a strong visual identity and an effective sales funnel. The design features high-quality imagery, bold contrasts, GSAP animations, and parallax effects for a dynamic user experience. The site is fully responsive and built with a UX-first approach.",
+        "review": "This is a landing page mockup"
+      },
+      {
+        "storyTitle": "Website for \"Pelmenim\"",
+        "storyText": "We developed a logo and a website for a small handmade dumplings business. The site's structure makes it easy to explore the assortment, learn about ingredient quality, and quickly place an order.",
+        "review": "This is a landing page mockup"
+      }
+    ]
+  },
+  "read_more": "read more... ",
+  "link_site": "Link to site",
+  "contacts": {
+    "title": "Contacts",
+    "touch": "Get In Touch",
+    "text": "We'd love to hear your thoughts and be in touch with us",
+    "name_label": "Your name",
+    "name": "Enter your name:",
+    "email_label": "Your email",
+    "email": "Enter your email:",
+    "phone_label": "Your phone number",
+    "phone": "Enter your phone number:",
+    "message_label": "Message",
+    "message": "Enter message",
+    "send": "Send"
+  },
+  "address": "7871606, Israel, Ashkelon, Sinai 3 ",
+  "modalTitle": "Thank you for your interest in our services",
+  "modalText": "and for leaving a request on our website. We will be happy to contact you to clarify the details and offer the best solution for your needs.",
+  "survey": {
+    "title": "SURVEY FOR THE DEVELOPMENT OF A ONE-PAGE SITE",
+    "text_1": "Please fill out the form so we can create a website that meets your expectations.",
+    "select_option": "Select an option",
+    "select_more_options": "Please select one or more options",
+    "other": "Other",
+    "section_1": {
+      "title": "Basic information",
+      "question_1.1": {
+        "question": "What is the main purpose of the site?",
+        "answer_1.1": "Sales",
+        "answer_1.2": "Attracting clients",
+        "answer_1.3": "Portfolio",
+        "answer_1.4": "Product presentation",
+        "answer_1.5": "Information site",
+        "answer_1.6": "Company business card",
+        "answer_1.7": "Registration for the event",
+        "answer_1.8": "Collection of subscribers",
+        "answer_1.9": "Hypothesis testing",
+        "answer_1.10": "Branding",
+        "answer_1.11": "Launching a new product or service",
+        "answer_1.12": "Community or forum",
+        "answer_1.13": "Mobile application promotion",
+        "answer_1.14": "Recruitment platform",
+        "placeholder": "Specify your goal"
+      },
+      "question_1.2": {
+        "question": "Who is your target audience?",
+        "answer_1": "Youth (18-25 years)",
+        "answer_2": "Adults (26-55 years)",
+        "answer_3": "Elderly (56+ years)",
+        "answer_4": "Specialized audience:",
+        "placeholder": "Specify your audience"
+      },
+      "question_1.3": {
+        "question": "What is the motivation for people to visit this site?",
+        "placeholder": "How will the site solve their problems?"
+      },
+      "question_1.4": {
+        "question": "What makes your business unique?",
+        "placeholder": "Describe the unique features of your business"
+      },
+      "question_1.5": {
+        "question": " How do you rate the success of a site visit?",
+        "description": "Please select one or more options that you think best reflect the effectiveness of your site:",
+        "answer_1": "Number of applications or requests",
+        "answer_2": "Number of purchases or orders",
+        "answer_3": "Subscriptions or registrations",
+        "answer_4": "Conversion (the ratio of visitors to target actions)",
+        "answer_5": "Time spent on site",
+        "answer_6": "Bounce Rate"
+      },
+      "question_1.6": {
+        "question": "What key actions should a user take on a website?",
+        "answer_1": "Fill out the form",
+        "answer_2": "Call",
+        "answer_3": "Subscribe to the newsletter",
+        "answer_4": "Get information about the service",
+        "answer_5": "Share on social networks using buttons.",
+        "answer_6": "View reviews of the service",
+        "answer_7": "Make a purchase"
+      }
+    },
+    "section_2": {
+      "title": "Style and visual preferences",
+      "question_2.1": {
+        "question": "What design resources do you have? (Select all that apply)",
+        "answer_1": "Ready brand book",
+        "answer_2": "Corporate identity",
+        "answer_3": "Ready content",
+        "answer_4": "Photos and videos",
+        "answer_5": "There are no materials",
+        "placeholder": "Specify other materials"
+      },
+      "question_2.2": {
+        "question": "What are your signature colors?",
+        "placeholder": "Specify color preferences for your website"
+      },
+      "question_2.3": {
+        "question": "Please provide references (examples of websites you like)?",
+        "placeholder": "Provide links"
+      },
+      "question_2.4": {
+        "question": "What style do you prefer?",
+        "answer_1": " Minimalism",
+        "answer_2": "Corporate",
+        "answer_3": "Futuristic",
+        "answer_4": "Retro",
+        "placeholder": "Specify other styles"
+      }
+    },
+    "section_3": {
+      "title": "Content",
+      "question_3.1": {
+        "question": "Do you have ready-made texts, images, videos?",
+        "answer_1": "Yes, everything is ready.",
+        "answer_2": "Partially",
+        "answer_3": "No, you need to create"
+      },
+      "question_3.2": {
+        "question": "Do you have ready-made texts, images, videos?",
+        "answer_1": "Yes",
+        "answer_2": "No, it needs to be developed"
+      },
+      "question_3.3": {
+        "question": "What is the primary phone number for your company?",
+        "placeholder": "Please enter your phone number"
+      }
+    },
+    "section_4": {
+      "title": "Functionality",
+      "question_4.1": {
+        "question": "What sections should a site include? (Select the required ones)",
+        "answer_1": "About Us",
+        "answer_2": "Services",
+        "answer_3": "Portfolio",
+        "answer_4": "Our advantages",
+        "answer_5": "Contacts",
+        "answer_6": "Reviews"
+      },
+      "question_4.2": {
+        "question": "Do you need feedback or subscription forms?",
+        "answer_1": "Yes",
+        "answer_2": "No"
+      },
+      "question_4.3": {
+        "question": "How do you want the user to contact you?",
+        "answer_1": "Through a form that sends user data to email",
+        "answer_2": "Through a button that takes him to a WhatsApp chat",
+        "answer_3": "Simply through the contacts listed on the website page",
+        "answer_4": "Through icons that take the user to your social network pages.",
+        "answer_5": "All options"
+      },
+      "question_4.4": {
+        "question": "Is animation or interactive elements required?",
+        "answer_1": "Yes",
+        "answer_2": "No"
+      },
+      "question_4.5": {
+        "question": "Is multilingualism planned?",
+        "answer_1": "Yes",
+        "answer_2": "No"
+      }
+    },
+    "section_5": {
+      "title": "Technical details",
+      "question_5.1": {
+        "question": "Which devices and screen resolutions are especially important?",
+        "answer_1": "Mobile",
+        "answer_2": "Tablets",
+        "answer_3": "PC"
+      },
+      "question_5.2": {
+        "question": "Where will the site be located?",
+        "answer_1": "We already have hosting and a domain",
+        "answer_2": "Need help choosing hosting and domain"
+      }
+    },
+    "section_6": {
+      "title": "Competitors and the Market",
+      "question_6.1": {
+        "question": "What is the primary phone number for your company?",
+        "placeholder": "Provide links:"
+      },
+      "question_6.2": {
+        "question": "What mistakes do your competitors make that you want to avoid?",
+        "placeholder": "Describe:"
+      },
+      "question_6.3": {
+        "question": "Is there a unique selling proposition (USP) that needs to be highlighted?",
+        "placeholder": "If yes, please describe:"
+      }
+    },
+    "section_7": {
+      "title": "Deadlines and budget",
+      "question_7.1": {
+        "question": "When do you need a ready-made website?",
+        "answer_1": "Urgent (up to 3 weeks)",
+        "answer_2": "Within a month",
+        "answer_3": "We're not in a hurry"
+      },
+      "question_7.2": {
+        "question": "Are there any limits on development costs?",
+        "answer_1": "No",
+        "answer_2": "Yes:",
+        "placeholder": "Specify your budget"
+      },
+      "question_7.3": {
+        "question": "Is there a need to provide for future improvements or support?",
+        "answer_1": "No",
+        "answer_2": "Yes"
+      }
+    },
+    "text_2": "Thank you for your time! Your answers will help us create a website that best meets your goals and expectations. If you have any additional requests, we will be happy to discuss them!",
+    "placeholder": "Describe:   ",
+    "button": "Submit a survey"
+  },
+  "modal_form_order": {
+    "title": "Order a Similar Project",
+    "your_name": "Your Name",
+    "name_placeholder": "Enter your name",
+    "mail": "E-mail",
+    "mail_placeholder": "example@mail.com",
+    "wishes": "Describe your wishes",
+    "wishes_placeholder": "I need a similar website for my business ",
+    "button": "Send Request"
+  },
+  "404": {
+    "title": "404 — flew away",
+    "subtitle_1": "The page you're looking for seems to have flown away with the bee 🐝",
+    "subtitle_2": "But no worries — you can always go back home!",
+    "link": "Back to homepage"
+  }
+}
+
