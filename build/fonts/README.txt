@@ -1,54 +1,23 @@
-Noto Serif Hebrew Variable Font
-===============================
+Oswald Variable Font
+====================
 
-This download contains Noto Serif Hebrew as both a variable font and static fonts.
+This download contains Oswald as both a variable font and static fonts.
 
-Noto Serif Hebrew is a variable font with these axes:
-  wdth
+Oswald is a variable font with this axis:
   wght
 
 This means all the styles are contained in a single file:
-  NotoSerifHebrew-VariableFont_wdth,wght.ttf
+  Oswald-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Noto Serif Hebrew:
-  static/NotoSerifHebrew_ExtraCondensed-Thin.ttf
-  static/NotoSerifHebrew_ExtraCondensed-ExtraLight.ttf
-  static/NotoSerifHebrew_ExtraCondensed-Light.ttf
-  static/NotoSerifHebrew_ExtraCondensed-Regular.ttf
-  static/NotoSerifHebrew_ExtraCondensed-Medium.ttf
-  static/NotoSerifHebrew_ExtraCondensed-SemiBold.ttf
-  static/NotoSerifHebrew_ExtraCondensed-Bold.ttf
-  static/NotoSerifHebrew_ExtraCondensed-ExtraBold.ttf
-  static/NotoSerifHebrew_ExtraCondensed-Black.ttf
-  static/NotoSerifHebrew_Condensed-Thin.ttf
-  static/NotoSerifHebrew_Condensed-ExtraLight.ttf
-  static/NotoSerifHebrew_Condensed-Light.ttf
-  static/NotoSerifHebrew_Condensed-Regular.ttf
-  static/NotoSerifHebrew_Condensed-Medium.ttf
-  static/NotoSerifHebrew_Condensed-SemiBold.ttf
-  static/NotoSerifHebrew_Condensed-Bold.ttf
-  static/NotoSerifHebrew_Condensed-ExtraBold.ttf
-  static/NotoSerifHebrew_Condensed-Black.ttf
-  static/NotoSerifHebrew_SemiCondensed-Thin.ttf
-  static/NotoSerifHebrew_SemiCondensed-ExtraLight.ttf
-  static/NotoSerifHebrew_SemiCondensed-Light.ttf
-  static/NotoSerifHebrew_SemiCondensed-Regular.ttf
-  static/NotoSerifHebrew_SemiCondensed-Medium.ttf
-  static/NotoSerifHebrew_SemiCondensed-SemiBold.ttf
-  static/NotoSerifHebrew_SemiCondensed-Bold.ttf
-  static/NotoSerifHebrew_SemiCondensed-ExtraBold.ttf
-  static/NotoSerifHebrew_SemiCondensed-Black.ttf
-  static/NotoSerifHebrew-Thin.ttf
-  static/NotoSerifHebrew-ExtraLight.ttf
-  static/NotoSerifHebrew-Light.ttf
-  static/NotoSerifHebrew-Regular.ttf
-  static/NotoSerifHebrew-Medium.ttf
-  static/NotoSerifHebrew-SemiBold.ttf
-  static/NotoSerifHebrew-Bold.ttf
-  static/NotoSerifHebrew-ExtraBold.ttf
-  static/NotoSerifHebrew-Black.ttf
+in those cases you can use the static font files for Oswald:
+  static/Oswald-ExtraLight.ttf
+  static/Oswald-Light.ttf
+  static/Oswald-Regular.ttf
+  static/Oswald-Medium.ttf
+  static/Oswald-SemiBold.ttf
+  static/Oswald-Bold.ttf
 
 Get started
 -----------

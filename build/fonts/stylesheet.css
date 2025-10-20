@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Cabin Condensed';
+    src: url('CabinCondensed-Regular.woff2') format('woff2'),
+        url('CabinCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin Condensed';
+    src: url('CabinCondensed-Bold.woff2') format('woff2'),
+        url('CabinCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin SemiCondensed';
+    src: url('CabinSemiCondensed-Regular.woff2') format('woff2'),
+        url('CabinSemiCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif Hebrew';
+    src: url('NotoSerifHebrew-Light.woff2') format('woff2'),
+        url('NotoSerifHebrew-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('Cabin-Regular.woff2') format('woff2'),
+        url('Cabin-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin SemiCondensed';
+    src: url('CabinSemiCondensed-Bold.woff2') format('woff2'),
+        url('CabinSemiCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif Hebrew';
+    src: url('NotoSerifHebrew-Bold.woff2') format('woff2'),
+        url('NotoSerifHebrew-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cabin';
+    src: url('Cabin-Bold.woff2') format('woff2'),
+        url('Cabin-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('Oswald-ExtraLight.woff2') format('woff2'),
+        url('Oswald-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('Oswald-Bold.woff2') format('woff2'),
+        url('Oswald-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url('Oswald-Regular.woff2') format('woff2'),
+        url('Oswald-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif Hebrew';
+    src: url('NotoSerifHebrew-Thin.woff2') format('woff2'),
+        url('NotoSerifHebrew-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif Hebrew';
+    src: url('NotoSerifHebrew-Regular.woff2') format('woff2'),
+        url('NotoSerifHebrew-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
