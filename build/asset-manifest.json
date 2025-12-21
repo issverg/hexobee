@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.0cf9ebd2.css",
-    "main.js": "/static/js/main.81bbc7ce.js",
+    "main.js": "/static/js/main.edba174f.js",
     "static/js/453.87ebbf2f.chunk.js": "/static/js/453.87ebbf2f.chunk.js",
     "static/js/38.74eebd6b.chunk.js": "/static/js/38.74eebd6b.chunk.js",
     "static/media/chistodey.mp4": "/static/media/chistodey.f9337bdf99b451b4676e.mp4",
+    "static/media/vita_nails.mp4": "/static/media/vita_nails.b991120b5ae785c84a21.mp4",
     "static/media/nataniapeter.mp4": "/static/media/nataniapeter.eecbcbd500241e72f7c4.mp4",
     "static/media/burger.mp4": "/static/media/burger.192fa2f27bbcaacf6018.mp4",
     "static/media/tennis_v.mp4": "/static/media/tennis_v.7db0b07f32381bccd519.mp4",
@@ -24,11 +25,14 @@
     "static/media/meeting.jpeg": "/static/media/meeting.e6fc2c5725f678dfa5b5.jpeg",
     "static/media/dumplings.mp4": "/static/media/dumplings.88f5625781cbd135e184.mp4",
     "static/media/tennis.webp": "/static/media/tennis.fdf28ad28290984b1ab2.webp",
+    "static/media/vita_nails_design.png": "/static/media/vita_nails_design.4c9ab0495fb4eecd0259.png",
     "static/media/chistodey_main.webp": "/static/media/chistodey_main.5836de75214ed77148b5.webp",
     "static/media/chistodey.webp": "/static/media/chistodey.c14b3a2097aa60f71aaf.webp",
+    "static/media/vita_nails_main_page.png": "/static/media/vita_nails_main_page.e1f4cc8b87134a84a2c1.png",
     "static/media/homeopatith.png": "/static/media/homeopatith.27e86aa7c35db66ae504.png",
     "static/media/cases.png": "/static/media/cases.083775c1556a8113e855.png",
     "static/media/dumplings.png": "/static/media/dumplings.3721cae0a5c7c880a69d.png",
+    "static/media/vita_nails_ui.png": "/static/media/vita_nails_ui.678729d1df60f560fd7b.png",
     "static/media/TravelersLogoPNG.png": "/static/media/TravelersLogoPNG.971477ca675c0601b377.png",
     "static/media/netania_peter_ui.webp": "/static/media/netania_peter_ui.a2d05f05c1969a633a13.webp",
     "static/media/natania_peter.webp": "/static/media/natania_peter.c2f6c6f2de7a3ad61378.webp",
@@ -37,6 +41,7 @@
     "static/media/netania_peter_design.webp": "/static/media/netania_peter_design.8093b0f67116dacfc3aa.webp",
     "static/media/bee.png": "/static/media/bee.b09f555d7e2d51f9a95d.png",
     "static/media/footer.webp": "/static/media/footer.e9ff7c9850afeaaff312.webp",
+    "static/media/vita_nails.png": "/static/media/vita_nails.74107f694e736c639add.png",
     "static/media/flag_eng.png": "/static/media/flag_eng.4fc3d944471ebe42c27e.png",
     "static/media/safex.png": "/static/media/safex.29627567d0995a64c80e.png",
     "static/media/w2_he_desk.webp": "/static/media/w2_he_desk.a7afec917c6c45e9d6be.webp",
@@ -48,7 +53,6 @@
     "static/media/w22_he_desctop.webp": "/static/media/w22_he_desctop.1b4a6c5c788b12970ed8.webp",
     "static/media/flag_rus.jpg": "/static/media/flag_rus.e89f708bad82867d3db5.jpg",
     "static/media/w33_mobile.webp": "/static/media/w33_mobile.273f53cba7986538c0eb.webp",
-    "static/media/whatsapp.png": "/static/media/whatsapp.a9c0296125f74151fab1.png",
     "static/media/Hexobee_logo.webp": "/static/media/Hexobee_logo.56d1dccbf5c453679744.webp",
     "static/media/w22_mobile.webp": "/static/media/w22_mobile.ea58a78dd1eab10c6421.webp",
     "static/media/w2_mobile.webp": "/static/media/w2_mobile.fa1d7b18a8ad668a04ad.webp",
@@ -63,13 +67,14 @@
     "static/media/Hexobee_logo_png_white.webp": "/static/media/Hexobee_logo_png_white.d8cad33b723b139dc3a4.webp",
     "static/media/hand.png": "/static/media/hand.ede920394c9fc401ad5f.png",
     "index.html": "/index.html",
+    "static/media/watsapp.svg": "/static/media/watsapp.f88ff3fcd96dadd76fcf99444ed475d3.svg",
     "main.0cf9ebd2.css.map": "/static/css/main.0cf9ebd2.css.map",
-    "main.81bbc7ce.js.map": "/static/js/main.81bbc7ce.js.map",
+    "main.edba174f.js.map": "/static/js/main.edba174f.js.map",
     "453.87ebbf2f.chunk.js.map": "/static/js/453.87ebbf2f.chunk.js.map",
     "38.74eebd6b.chunk.js.map": "/static/js/38.74eebd6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cf9ebd2.css",
-    "static/js/main.81bbc7ce.js"
+    "static/js/main.edba174f.js"
   ]
 }
